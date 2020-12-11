@@ -7,3 +7,6 @@ S Chivukula*, CY Zhang*, T Aflalo*‡, M Jafari, Kelsie Pejsa, N Pouratian, RA A
 ‡ Correspondence to taflalo@caltech.edu 
 
 
+Latency analysis:
+Structured neural data saved as LatencyData.mat
+Analysis can be performed using function PerformLatencyAnalysis.m
